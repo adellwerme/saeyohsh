@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eisheetha.derektopper.com/sitemap.xml
